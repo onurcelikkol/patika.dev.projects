@@ -1,0 +1,13 @@
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
+
+Kökü 6 seçtim. 7 sayısı kökten büyük olduğu için sağ tarafa geçer. 5 sayısı kökten küçük olduğu için soluna geçer. 1 sayısı 5'ten küçük olduğu için 5'in soluna geçer.
+8 sayısı 5'ten büyük olduğu için 5'in sağına geçer. 3 sayısı 7'den küçük olduğu için 7'nin soluna geçer. 9 sayısı 7'den büyük olduğu için 7'nin sağına geçer.
+0 Sayısı 1'den küçük olduğu için 1'in soluna geçer. 4 sayısı 1'den büyük olduğu için 1'in sağına geçer. 2 sayısı 3'den küçük olduğu için 3' soluna geçer.
+
+                6
+              /   \
+             5     7
+            / \   / \
+           1   8 3   9
+          / \   /
+         0   4 2
